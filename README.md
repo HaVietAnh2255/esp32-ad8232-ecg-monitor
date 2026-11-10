@@ -144,7 +144,7 @@ Trước khi làm phần IoT, em đã xây dựng một phiên bản thử nghi�
 - Ghi dữ liệu ra file CSV để phân tích sau.
 - Tính và hiển thị BPM, R-R, SDNN, RMSSD.
 
-![Sóng ECG hiển thị trên máy tính](images/demo.ipg)
+![Sóng ECG hiển thị trên máy tính](images/demo.jpg)
 
 *Sóng ECG thực đo được hiển thị trên phần mềm máy tính.*
 
