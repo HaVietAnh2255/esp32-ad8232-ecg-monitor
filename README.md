@@ -125,9 +125,33 @@ flowchart LR
 
 ### Ảnh phần cứng
 
-![Module AD8232](images/ad8232.jpg)
-
-*Module AD8232.*
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="images/esp32.jpg" width="180"><br>
+      <sub>ESP32-S3 DevKitC-1</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="images/ad8232.jpg" width="180"><br>
+      <sub>Module AD8232</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="images/oled.jpg" width="180"><br>
+      <sub>Màn hình OLED 0.96" SSD1306</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/led.jpg" width="180"><br>
+      <sub>LED RGB</sub>
+    </td>
+    <td align="center">
+      <img src="images/buzzer.jpg" width="180"><br>
+      <sub>Còi buzzer</sub>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
