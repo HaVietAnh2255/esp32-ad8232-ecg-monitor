@@ -94,7 +94,7 @@ flowchart LR
     D --> F["Tính BPM, R-R,<br/>SDNN, RMSSD"]
     F --> G{"Kiểm tra<br/>bất thường"}
     G -- "Bình thường" --> H["OLED + MQTT"]
-    G -- "Bất thường" --> I["Gắn cờ + LED đỏ + buzzer+ OLED+ MQTT"]
+    G -- "Bất thường" --> I["Gắn cờ<br/>LED đỏ + còi<br/>OLED: loại cảnh báo<br/>MQTT"]
 ```
 
 ### Cấu trúc topic MQTT dự kiến
