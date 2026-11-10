@@ -220,4 +220,7 @@ Các chỉ số tính được:
 
 ## 11. Tài liệu tham khảo
 
-*(Đang cập nhật)*
+1. Analog Devices. *AD8232: Single-Lead, Heart Rate Monitor Front End – Datasheet*, Rev. C. URL: https://www.analog.com/media/en/technical-documentation/data-sheets/ad8232.pdf
+2. SparkFun Electronics. *AD8232 Heart Rate Monitor Hookup Guide*. URL: https://learn.sparkfun.com/tutorials/ad8232-heart-rate-monitor-hookup-guide
+3. J. Pan and W. J. Tompkins. "A Real-Time QRS Detection Algorithm." *IEEE Transactions on Biomedical Engineering*, vol. BME-32, no. 3, pp. 230–236, 1985. URL: https://www.robots.ox.ac.uk/~gari/teaching/cdt/A3/readings/ECG/Pan+Tompkins.pdf
+4. A. Rawshani. *Clinical ECG Interpretation*. Gothenburg, Sweden: ECG Waves, 2022. URL: https://ecgwaves.com/course/the-ecg-book/
